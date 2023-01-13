@@ -7,3 +7,7 @@ Link of Collab Notebook used for training: https://colab.research.google.com/git
 
 This project contains only the necessary files to make the job easier. When you get the .tflite file, just put it in the folder and run the "detect.py" file. Like I said I'm just making a repo for testing. Good projects.
 
+
+------------------------------------UPDATE-----------------------------------
+
+You will need to install the tensorflow library because the file is big I couldn't put it in my repo.
